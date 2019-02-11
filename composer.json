@@ -1,0 +1,21 @@
+{
+    "name": "hongweizhiyuan/think-print-version",
+    "description": "it will print thinkphp5 version when you excute php think version.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hongweizhiyuan",
+            "email": "403236160@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hongweizhiyuan\\": "src"
+        },
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
